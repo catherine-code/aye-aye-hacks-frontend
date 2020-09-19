@@ -1,4 +1,5 @@
 //hello Catherine
+// hi everyone
 
 import React from 'react';
 import './App.css';
